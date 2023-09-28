@@ -1,0 +1,14 @@
+.list-item{
+    list-style-type: none;
+}
+.emoji-btn{
+    outline: none;
+    background-color: transparent;
+    border-radius: 8px;
+    border:2px solid  #ffffff33;
+    background-color:  #fbc7d4;
+}
+.emoji{
+    width:150px;
+    height:150px;
+}

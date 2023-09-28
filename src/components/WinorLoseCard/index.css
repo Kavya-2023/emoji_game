@@ -1,0 +1,35 @@
+.card-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #fbc7d4;
+    width:500px;
+    border-radius: 10px;
+    border:2px solid white;
+    height:300px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+}
+.score-text{
+    color:white;
+    font-size:25px;
+    font-weight: 800;
+}
+.score-board{
+    color:#6a59ff;
+    font-size: 20px;
+}
+.card-img{
+    width:250px;
+    height:300px;
+}
+.button{
+    background-color: #ffce27;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    outline: none;
+    font-weight: 500;
+    color:#6a59ff;
+}
